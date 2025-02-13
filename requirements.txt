@@ -1,0 +1,5 @@
+pytest
+requests
+pytest-html
+psycopg2-binary  # PostgreSQL driver
+python-dotenv  # For managing environment variables
