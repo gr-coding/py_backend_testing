@@ -4,8 +4,7 @@ class TestAPILogin:
     """
     Test class for API Login tests
     """
-
-
+    
     def test_get_user_profile(self, api_get_access_token):
         """
         Test retrieving authenticated user profile.

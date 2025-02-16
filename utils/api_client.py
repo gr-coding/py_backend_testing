@@ -5,7 +5,6 @@ import base64
 class APIClient:
     """Reusable API client for interacting with REST APIs with authentication support."""
 
-
     def __init__(self, base_url, auth_type=None, username=None, password=None):
         """
         Initializes the APIClient.
